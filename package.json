@@ -1,0 +1,13 @@
+{
+  "name": "mailer2",
+  "version": "1.0.0",
+  "description": "Bulk email sender with web UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7"
+  }
+}
